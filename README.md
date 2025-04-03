@@ -31,5 +31,4 @@ I am a final-year undergraduate reading for a B.Sc. in Information Technology at
 
 <a href="http://www.github.com/ChamodyaGanepola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamodyaGanepola&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChamodyaGanepola&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/ChamodyaGanepola)
 
