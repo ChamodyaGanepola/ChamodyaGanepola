@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chamodya Ganepola
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Chamodya Ganepola
 =========================================================================================================================================
 
 A passionate Software developer from Sri Lanka
 ----------------------------------------------
 
-I am a final-year undergraduate reading for a B.Sc. in Information Technology at University of Moratuwa. Work Experience : Software Engineer Intern @ DirectFN Sri Lanka | January 2024 - June 2024
+I am a <b> final-year undergraduate reading for a B.Sc. in Information Technology at University of Moratuwa </b>.</br> Work Experience : <b>Software Engineer Intern @ DirectFN Sri Lanka </b>| January 2024 - June 2024
 
-* 🌍  I'm based in Sri Lanka
+* 🌍  Gampaha, Sri Lanka
 * 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-website-xi-two.vercel.app/)
 * ✉️  You can contact me at [chamodyaagra2000@gmail.com](mailto:chamodyaagra2000@gmail.com)
 * ⚡  Interest in Pencil Portraits
