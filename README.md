@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Software developer from Sri Lanka
 ----------------------------------------------
 
-I am a <b> final-year undergraduate reading for a B.Sc. in Information Technology at University of Moratuwa.I have completed all my final examinations and am currently awaiting results and formal graduation. </b>.</br> Work Experience : <b>Software Engineer Intern @ DirectFN Sri Lanka </b>| January 2024 - June 2024
+I am a <b> final-year undergraduate reading for a B.Sc. in Information Technology at University of Moratuwa.I have completed all my final examinations and am currently awaiting results and formal graduation</b>.</br> Work Experience : <b>Software Engineer Intern @ DirectFN Sri Lanka </b>| January 2024 - June 2024
 
 * 🌍  Gampaha, Sri Lanka
 * 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-website-xi-two.vercel.app/)
